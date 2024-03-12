@@ -1,4 +1,4 @@
-# Csharp_calculator
+# ScientificSharp
 
 The code is a Windows Forms application for a basic scientific calculator, allowing users to perform mathematical operations like addition, subtraction, multiplication, division, trigonometrics, and logarithms.
 
