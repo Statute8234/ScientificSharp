@@ -7,7 +7,7 @@ The code is a Windows Forms application for a basic scientific calculator, allow
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 3/10](#Rating)
+- [Rating: 5/10](#Rating)
 
 # About
 
@@ -23,4 +23,7 @@ System, System.Collections.Generic, System.ComponentModel, System.Data, System.D
 
 # Rating
 
-The calculator, a basic mathematical tool, has several limitations and areas for improvement. Its user interface lacks visual polish and sophistication, with plain buttons and a simplistic layout that may not appeal to modern design standards. It lacks robust error handling mechanisms, which may result in unexpected behavior or crashes if users input invalid or nonsensical data. The calculator offers a decent range of mathematical functions but lacks common features found in more advanced calculators, such as memory functions, scientific notation support, and customizable settings. The code structure could be improved for readability, maintainability, and scalability, with hard-coded values and lack of comments making it difficult for other developers to understand and modify.
+The calculator offers basic arithmetic operations and some scientific functions, including division by zero and mathematical errors for large numbers. It has a simple user interface with buttons for digits, arithmetic operations, and scientific functions. However, it lacks visual aesthetics and design elements that could improve user experience.
+The code structure is structured into event handlers for button clicks and helper methods for performing calculations. However, the logic for handling arithmetic operations could be simplified and made more readable by refactoring repetitive code segments. Variable names like `first_number`, `second_number`, and `oper` are descriptive and intuitive, but some variables could have more descriptive names, such as `plus_min`.
+Error handling is lacking for scenarios like division by zero or invalid input, and adding error checks and user feedback would enhance the calculator's robustness and user experience. Code readability could benefit from more comments explaining the purpose of methods and complex logic, and some parts of the code could be refactored to improve readability and reduce redundancy.
+The calculator performs calculations efficiently, but there are opportunities to optimize repetitive operations and improve overall performance, especially for complex scientific functions. Overall, with refinements, the calculator could become a more robust and user-friendly application.
