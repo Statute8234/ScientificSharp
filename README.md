@@ -1,6 +1,17 @@
 # ScientificSharp
-
 The code is a Windows Forms application for a basic scientific calculator, allowing users to perform mathematical operations like addition, subtraction, multiplication, division, trigonometrics, and logarithms.
+
+[![Static Badge](https://img.shields.io/badge/System;-red)](https://www.nuget.org/packages/System;/)
+[![Static Badge](https://img.shields.io/badge/System.Collections.Generic;-yellow)](https://www.nuget.org/packages/System.Collections.Generic;/)
+[![Static Badge](https://img.shields.io/badge/System.ComponentModel;-green)](https://www.nuget.org/packages/System.ComponentModel;/)
+[![Static Badge](https://img.shields.io/badge/System.Data;-orange)](https://www.nuget.org/packages/System.Data;/)
+[![Static Badge](https://img.shields.io/badge/System.Drawing;-yellow)](https://www.nuget.org/packages/System.Drawing;/)
+[![Static Badge](https://img.shields.io/badge/System.Linq;-red)](https://www.nuget.org/packages/System.Linq;/)
+[![Static Badge](https://img.shields.io/badge/System.Security.Cryptography;-orange)](https://www.nuget.org/packages/System.Security.Cryptography;/)
+[![Static Badge](https://img.shields.io/badge/System.Text;-yellow)](https://www.nuget.org/packages/System.Text;/)
+[![Static Badge](https://img.shields.io/badge/System.Threading.Tasks;-red)](https://www.nuget.org/packages/System.Threading.Tasks;/)
+[![Static Badge](https://img.shields.io/badge/System.Windows.Forms;-brown)](https://www.nuget.org/packages/System.Windows.Forms;/)
+[![Static Badge](https://img.shields.io/badge/System.Windows.Forms.VisualStyles.VisualStyleElement;-pink)](https://www.nuget.org/packages/System.Windows.Forms.VisualStyles.VisualStyleElement;/)
 
 ## Table of Contents
 
